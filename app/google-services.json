@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "180576044695",
+    "firebase_url": "https://tingwork-e570b.firebaseio.com",
+    "project_id": "tingwork-e570b",
+    "storage_bucket": "tingwork-e570b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:180576044695:android:729a8345cb75701c",
+        "android_client_info": {
+          "package_name": "anil.com.tingwork"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "180576044695-oltaq917373rdd2o121js43kotm3820t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "anil.com.tingwork",
+            "certificate_hash": "9714cd9d36703d6803a0f4c01ae422dc6c9ac809"
+          }
+        },
+        {
+          "client_id": "180576044695-tn23jnfdel2o70sd3r7d2m8j37lrcg97.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1tl_kHgSbRYVL8VNzjIvNx8q3uzfR-Dc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "180576044695-tn23jnfdel2o70sd3r7d2m8j37lrcg97.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

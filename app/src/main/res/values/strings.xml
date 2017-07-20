@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">TingTing</string>
+    <string name="ring">Ring the bell</string>
+    <string name="Ting">Ting Ting..</string>
+    <string name="username">User Name..</string>
+    <string name="name">Name</string>
+    <string name="mobile">Mobile No.</string>
+    <string name="dob">DOB</string>
+    <string name="Address">Address</string>
+    <string name="signup">Sign up</string>
+    <string name="title_activity_innermenu">Ting Ting</string>
+    <string name="text">..........</string>
+    <string name="score">Score</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="userprofile">User Profile</string>
+
+
+
+
+</resources>
